@@ -1,0 +1,12 @@
+Representación del conocimiento
+Se refiere a cómo se estructura y almacena el conocimiento dentro del sistema para que pueda ser utilizado en el proceso de razonamiento y toma de decisiones. La forma en que se representa el conocimiento afecta la capacidad del sistema para resolver problemas y proporcionar recomendaciones en su dominio de especialización.
+Módulo de adquisición de conocimiento: es la forma en que se introduce la experiencia y el saber hacer de los expertos humanos en el sistema.
+Este módulo se encarga de recopilar, organizar y transferir el conocimiento experto humano al sistema para que pueda tomar decisiones informadas y realizar tareas específicas en un dominio determinado.
+Supongamos que estamos desarrollando un sistema experto para el diagnóstico médico de enfermedades cardíacas. El módulo de adquisición de conocimiento sería responsable de incorporar el conocimiento médico relevante en el sistema.
+Base de conocimiento: La base de conocimiento es donde se almacena y organiza todo el conocimiento experto relevante que el sistema necesita para tomar decisiones y realizar tareas en un dominio específico. La base de conocimiento no solo almacena datos, sino que también incluye reglas y relaciones lógicas que permiten al sistema razonar y deducir conclusiones.
+
+Si "La computadora no enciende", entonces "Posible problema de fuente de alimentación".
+Base de hechos: se refiere al componente que almacena información actual y observable sobre el dominio, y esta información se utiliza para el razonamiento y la toma de decisiones del sistema.
+La Base de Hechos es una parte esencial de la Base de Conocimiento en un sistema experto.
+Trabaja en conjunto con el motor de inferencia y las reglas almacenadas en la Base de Conocimiento para generar resultados y respuestas coherentes y fundamentadas en el dominio específico.
+El sistema experto está diseñado para ayudar a los agricultores a identificar problemas en cultivos de hortalizas. Si "Las hojas de los tomates presentan manchas amarillas", entonces "Posible deficiencia de nutrientes o enfermedad foliar".
