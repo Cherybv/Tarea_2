@@ -1,0 +1,12 @@
+Adquisición de conocimiento
+Consiste en recopilar, organizar y codificar el conocimiento relevante en el dominio específico en el que el sistema experto operará.
+Experto: es una parte del sistema que almacena y representa el conocimiento y la experiencia en un dominio específico. 
+Sirve para proporcionar respuestas y soluciones precisas y coherentes basadas en el conocimiento acumulado.
+Un experto en este contexto no es una persona, sino una entidad de software diseñada para simular el razonamiento y el juicio de un experto humano en un campo particular.
+
+Supongamos que estamos desarrollando un sistema experto para el diagnóstico médico de enfermedades gastrointestinales. En este caso, un gastroenterólogo experimentado podría ser considerado como el experto.
+Cognimatic: es el proceso de adquisición, procesamiento, almacenamiento y utilización de conocimiento y entendimiento.
+Se utilizan para mejorar su capacidad de razonar, aprender, adaptarse y tomar decisiones de manera más parecida a como lo haría un experto humano en un dominio específico.
+Pueden incorporar ciertos aspectos para mejorar su capacidad de emular el razonamiento humano.
+
+Supongamos que estamos desarrollando un sistema experto para la asesoría legal en temas de propiedad intelectual. Queremos que este sistema no solo analice datos y reglas predefinidas, sino que también tenga la capacidad de comprender y contextualizar la información como lo haría un abogado experimentado.
