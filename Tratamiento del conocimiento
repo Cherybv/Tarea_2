@@ -1,0 +1,16 @@
+Tratamiento del conocimiento
+Se refiere al proceso de manejar y procesar el conocimiento almacenado en la base de conocimiento de manera que el sistema pueda utilizarlo para realizar tareas, tomar decisiones y generar respuestas en un dominio específico. Este proceso implica aplicar métodos y técnicas para manipular y razonar con el conocimiento experto almacenado en el sistema.
+Motor de inferencia: es responsable de aplicar las reglas almacenadas en la base de conocimiento a los hechos almacenados en la base de hechos para deducir nuevas conclusiones y tomar decisiones lógicas.
+Supongamos que el sistema tiene una base de conocimiento que contiene información sobre dispositivos electrónicos, como teléfonos inteligentes, tabletas y computadoras portátiles. El objetivo es ayudar a los usuarios a tomar decisiones informadas sobre qué dispositivo comprar.
+Si "El usuario necesita un dispositivo con una cámara de alta calidad", entonces "Recomendar un teléfono inteligente de gama alta con una cámara avanzada".
+En este ejemplo, el motor de inferencia utiliza la base de conocimiento compuesta por hechos y reglas para analizar las necesidades del usuario y generar recomendaciones de dispositivos electrónicos adecuados.
+
+Modulo de explicaciones: es un componente diseñado para proporcionar una comprensión y justificación de las decisiones y conclusiones que el sistema experto ha tomado. Este módulo permite que el sistema explique de manera coherente y comprensible por qué llegó a una cierta conclusión o recomendación, lo cual es esencial para la transparencia y la confiabilidad del sistema.
+
+El sistema experto está diseñado para proporcionar recomendaciones personalizadas de dieta y ejercicio a los usuarios interesados en mejorar su salud y estado físico.
+El sistema recomienda una dieta que incluye un alto consumo de proteínas y carbohidratos saludables, junto con una rutina de ejercicios de resistencia y cardio.
+Junto con la recomendación, el sistema presenta un módulo de explicaciones. Si el usuario selecciona la opción de "Ver Explicación", el módulo proporciona información detallada sobre por qué se realizó esa recomendación específica.
+
+Interfaz de usuario: es un componente importante ya que es el punto de contacto directo entre los usuarios y el sistema experto. Una interfaz bien diseñada mejora la accesibilidad, la usabilidad y la eficacia de un sistema experto al permitir una interacción fluida y significativa entre los usuarios y el conocimiento experto contenido en el sistema.
+El sistema experto está diseñado para proporcionar recomendaciones de viaje personalizadas a los usuarios que buscan planificar sus vacaciones.
+La interfaz se diseña de manera amigable y fácil de usar, con gráficos atractivos, iconos intuitivos y una navegación clara. Esto garantiza que los usuarios puedan interactuar sin problemas con el sistema experto.
